@@ -7,10 +7,13 @@
         "precio": 59.99,
         "descuento": 10,
         "imagenes": [
-            "/img",
-            "/img/ps5/alanwake1.png",
-            "/img/ps5/alanwake2.png",
-            "/img/ps5/alanwake3.png"
+            "/img/juegospopulares/silent0.png",
+            "/img/juegospopulares/silent1.png",
+            "/img/juegospopulares/silent2.png",
+            "/img/juegospopulares/silent3.png",
+            "/img/juegospopulares/silent4.png",
+            "/img/juegospopulares/silent5.png",
+            "/img/juegospopulares/silent6.png"
         ]
     },
     {
@@ -21,9 +24,13 @@
         "precio": 49.99,
         "descuento": 15,
         "imagenes": [
-            "/img/ps5/dragonball1.png",
-            "/img/ps5/dragonball2.png",
-            "/img/ps5/dragonball3.png"
+            "/img/juegospopulares/dragonball0.png",
+            "/img/juegospopulares/dragonball1.png",
+            "/img/juegospopulares/dragonball2.png",
+            "/img/juegospopulares/dragonball3.png",
+            "/img/juegospopulares/dragonball4.png",
+            "/img/juegospopulares/dragonball5.png"
+
         ]
     },
     {
@@ -34,9 +41,13 @@
         "precio": 54.99,
         "descuento": 20,
         "imagenes": [
-            "/img/ps5/metaphor1.png",
-            "/img/ps5/metaphor2.png",
-            "/img/ps5/metaphor3.png"
+            "/img/juegospopulares/metaphor0.png",
+            "/img/juegospopulares/metaphor1.png",
+            "/img/juegospopulares/metaphor2.png",
+            "/img/juegospopulares/metaphor3.png",
+            "/img/juegospopulares/metaphor4.png",
+            "/img/juegospopulares/metaphor5.png",
+            "/img/juegospopulares/metaphor6.png"
         ]
     },
     {
@@ -47,9 +58,13 @@
         "precio": 39.99,
         "descuento": 5,
         "imagenes": [
-            "/img/ps5/gow1.png",
-            "/img/ps5/gow2.png",
-            "/img/ps5/gow3.png"
+            "/img/juegospopulares/godofwar0.png",
+            "/img/juegospopulares/godofwar1.png",
+            "/img/juegospopulares/godofwar2.png",
+            "/img/juegospopulares/godofwar3.png",
+            "/img/juegospopulares/godofwar4.png",
+            "/img/juegospopulares/godofwar5.png",
+            "/img/juegospopulares/godofwar6.png"
         ]
     },
     {
@@ -60,9 +75,13 @@
         "precio": 69.99,
         "descuento": 25,
         "imagenes": [
-            "/img/ps5/cod1.png",
-            "/img/ps5/cod2.png",
-            "/img/ps5/cod3.png"
+            "/img/juegospopulares/callofduty0.png",
+            "/img/juegospopulares/callofduty1.png",
+            "/img/juegospopulares/callofduty2.png",
+            "/img/juegospopulares/callofduty3.png",
+            "/img/juegospopulares/callofduty4.png",
+            "/img/juegospopulares/callofduty5.png",
+            "/img/juegospopulares/callofduty6.png"
         ]
     },
     {
@@ -73,9 +92,12 @@
         "precio": 59.99,
         "descuento": 10,
         "imagenes": [
-            "/img/ps5/fc1.png",
-            "/img/ps5/fc2.png",
-            "/img/ps5/fc3.png"
+            "/img/juegospopulares/fifa0.png",
+            "/img/juegospopulares/fifa1.png",
+            "/img/juegospopulares/fifa2.png",
+            "/img/juegospopulares/fifa3.png",
+            "/img/juegospopulares/fifa4.png",
+            "/img/juegospopulares/fifa5.png"
         ]
     },
     {
@@ -86,9 +108,12 @@
         "precio": 44.99,
         "descuento": 15,
         "imagenes": [
-            "/img/ps5/re41.png",
-            "/img/ps5/re42.png",
-            "/img/ps5/re43.png"
+            "/img/juegospopulares/resident0.png",
+            "/img/juegospopulares/resident1.png",
+            "/img/juegospopulares/resident2.png",
+            "/img/juegospopulares/resident3.png",
+            "/img/juegospopulares/resident4.png",
+            "/img/juegospopulares/resident5.png"
         ]
     },
     {
@@ -99,9 +124,12 @@
         "precio": 59.99,
         "descuento": 10,
         "imagenes": [
-            "/img/ps5/da1.png",
-            "/img/ps5/da2.png",
-            "/img/ps5/da3.png"
+            "/img/juegospopulares/dragonAge0",
+            "/img/juegospopulares/dragonAge1.png",
+            "/img/juegospopulares/dragonAge2.png",
+            "/img/juegospopulares/dragonAge3.png",
+            "/img/juegospopulares/dragonAge4.png",
+            "/img/juegospopulares/dragonAge5.png"
         ]
     },
     {
@@ -112,9 +140,13 @@
         "precio": 49.99,
         "descuento": 20,
         "imagenes": [
-            "/img/ps5/elden1.png",
-            "/img/ps5/elden2.png",
-            "/img/ps5/elden3.png"
+            "/img/juegospopulares/Elden0.png",
+            "/img/juegospopulares/Elden1.png",
+            "/img/juegospopulares/Elden2.png",
+            "/img/juegospopulares/Elden3.png",
+            "/img/juegospopulares/Elden4.png",
+            "/img/juegospopulares/Elden5.png"
+            
         ]
     },
     {
@@ -125,9 +157,14 @@
         "precio": 59.99,
         "descuento": 15,
         "imagenes": [
-            "/img/ps5/alanwake1.png",
-            "/img/ps5/alanwake2.png",
-            "/img/ps5/alanwake3.png"
+            "/img/juegospopulares/alanwake0.png",
+            "/img/juegospopulares/alanwake1.png",
+            "/img/juegospopulares/alanwake2.png",
+            "/img/juegospopulares/alanwake3.png",
+            "/img/juegospopulares/alanwake4.png",
+            "/img/juegospopulares/alanwake5.png",
+            "/img/juegospopulares/alanwake6.png"
+            
         ]
     }
 ]
