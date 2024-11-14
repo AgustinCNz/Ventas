@@ -172,7 +172,63 @@ button:hover {
     right: 10px;
 }
 
+/* estilo para el modal de las card*/
+.modal {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    max-width: 80%;
+    max-height: 80%;
+    overflow-y: auto;
+}
 
+.modal-content {
+    position: relative;
+}
+
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.modal-images img {
+    width: 100px;
+    margin: 5px;
+    border-radius: 5px;
+}
+/* Contenedor de previsualización en el modal */
+#modal-preview-container {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#modal-preview {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+}
+
+.modal-images img {
+    width: 100px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+/* Fin del estilo para el model de las card*/
 
 /* Media Queries */
 @media (max-width: 768px) {
